@@ -1,0 +1,1 @@
+export const API_URI = process.env.API_URI || 'https://5f50ca542b5a260016e8bfb0.mockapi.io'
